@@ -1,0 +1,8 @@
+OsMatch.name : Linux 3.7 - 3.15
+OsMatch.accuracy : 100
+OsMatch.line : 52790
+
+OsClass.type : general purpose
+OsClass.vendor : Linux
+OsClass.osfamily : Linux
+OsClass.osgen : 3.X
